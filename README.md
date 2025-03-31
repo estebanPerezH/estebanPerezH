@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Analista+de+Datos;Apasionado+por+la+tecnología+y+el+análisis">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=800&height=120&lines=Software+Developer+with+a+passion+for+innovation;Data+Analyst+who+loves+turning+data+into+insights;Building+efficient+and+scalable+solutions;Always+learning+new+technologies+and+challenges">
   </a>
 </p>
