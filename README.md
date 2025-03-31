@@ -1,5 +1,48 @@
 ## Hi there 👋
 
+<!--- about me -->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a `Full Stack Developer` with over 2.5 years of experience, leading software projects from requirement gathering to final delivery, meeting 100% of the client's specifications.
+- :trophy: Expertise in **HTML5**, **CSS3**, **JavaScript**, **Python**, **Node.js**, **React**, **Laravel**, **SQL**, and **PostgreSQL**.
+- :technologist: I am passionate about developing software solutions that solve real-world problems and enhance operational efficiency.
+- :computer: I’m currently learning **Software Engineering** and **Data Science** to further my knowledge.
+- :nerd_face: Always **learning new technologies and techniques**.
+- :thinking: I’m currently open for a new `job opportunity`, this is my [**Resume**](https://example.com/resume).
+- :boom: You can visit my [**Personal Website**](https://example.com).
+
+<br>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Professional and Development Profiles
+
+- :bulb: **Freelance Software Developer** (Oct 2023 - Present)  
+  Managed and optimized software for various clients, ensuring 100% satisfaction and compliance with all requirements. Enhanced software stability and functionality by 30%.
+
+- :bulb: **Software Analyst and Developer at Mutual Bienestar** (Jan 2023 - Aug 2023)  
+  Led the development of business automation software, improving operational efficiency by 95% and reducing development times by 20% through Agile methodologies.
+
+- :bulb: **Technical Degree in Software Development** (Sena, 2023)  
+  Focused on both Frontend and Backend technologies, improving application functionality by 25% and collaborating effectively with teams.
+
+- :bulb: **Full Stack Development, AWS, Docker (Coursera)** (May 2024)  
+  Gained expertise in backend development with Node.js and Express, as well as containerizing applications using Docker.
+
+---
+
+
+
+<p a
+
+
+<!--- about me end -->
+
+
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=800&height=120&lines=Software+Developer+with+3%2B+years+of+experience;Building+efficient+and+scalable+solutions;Always+learning+new+technologies+and+challenges">
